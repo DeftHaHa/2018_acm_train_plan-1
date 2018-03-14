@@ -3,6 +3,7 @@
 fork过去完成一题就 改一下自己的readme 然后上传代码 做别人没有完成的题！  
 
 已完成：
+并查集 <a href="//link.zhihu.com/?target=http%3A/acm.hdu.edu.cn/showproblem.php%3Fpid%3D1272" class=" wrap external" 
 
 未完成：  
 
@@ -30,7 +31,7 @@ K-D Tree <a href="//link.zhihu.com/?target=http%3A/acm.hdu.edu.cn/showproblem.ph
 树上莫队算法 <a href="//link.zhihu.com/?target=http%3A/www.spoj.com/problems/COT2/" class=" wrap external" target="_blank">Problem - COT2<i class="icon-external"></i></a><br>
 左偏树 <a href="//link.zhihu.com/?target=http%3A/acm.hdu.edu.cn/showproblem.php%3Fpid%3D3031" class=" wrap external" target="_blank">Problem - 3031<i class="icon-external"></i></a><br>
 堆 <a href="//link.zhihu.com/?target=http%3A/acm.hdu.edu.cn/showproblem.php%3Fpid%3D3673" class=" wrap external" target="_blank">Problem - 3673<i class="icon-external"></i></a><br>
-并查集 <a href="//link.zhihu.com/?target=http%3A/acm.hdu.edu.cn/showproblem.php%3Fpid%3D1272" class=" wrap external" target="_blank">Problem - 1272<i class="icon-external"></i></a><br>
+target="_blank">Problem - 1272<i class="icon-external"></i></a><br>
 带权并查集 <a href="//link.zhihu.com/?target=http%3A/acm.hdu.edu.cn/showproblem.php%3Fpid%3D3047" class=" wrap external" target="_blank">Problem - 3047<i class="icon-external"></i></a><br>
 链表 <a href="//link.zhihu.com/?target=http%3A/acm.hdu.edu.cn/showproblem.php%3Fpid%3D1413" class=" wrap external" target="_blank">Problem - 1413<i class="icon-external"></i></a><br>
 双向链表 <a href="//link.zhihu.com/?target=http%3A/acm.hdu.edu.cn/showproblem.php%3Fpid%3D4699" class=" wrap external" target="_blank">Problem - 4699<i class="icon-external"></i></a><br>
