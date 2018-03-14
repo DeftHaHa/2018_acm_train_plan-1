@@ -5,11 +5,11 @@ fork过去完成一题就 改一下自己的readme 然后上传代码 做别人�
 已完成：
 并查集 <a href="//link.zhihu.com/?target=http%3A/acm.hdu.edu.cn/showproblem.php%3Fpid%3D1272" class=" wrap external" 
 target="_blank">Problem - 1272<i class="icon-external"></i></a><br>
+树状数组单点修改区间查询 <a href="//link.zhihu.com/?target=http%3A/acm.hdu.edu.cn/showproblem.php%3Fpid%3D1754" class=" wrap external" target="_blank">Problem - 1754<i class="icon-external"></i></a><br>
 未完成：  
 
 Hash Table <a href="//link.zhihu.com/?target=http%3A/acm.hdu.edu.cn/showproblem.php%3Fpid%3D5183" class=" wrap external" target="_blank">Problem - 5183<i class="icon-external"></i></a><br>
 ST Table <a href="//link.zhihu.com/?target=http%3A/acm.hdu.edu.cn/showproblem.php%3Fpid%3D3183" class=" wrap external" target="_blank">Problem - 3183<i class="icon-external"></i></a><br>
-树状数组单点修改区间查询 <a href="//link.zhihu.com/?target=http%3A/acm.hdu.edu.cn/showproblem.php%3Fpid%3D1754" class=" wrap external" target="_blank">Problem - 1754<i class="icon-external"></i></a><br>
 树状数组区间修改单点查询 <a href="//link.zhihu.com/?target=http%3A/acm.fzu.edu.cn/problem.php%3Fpid%3D1608" class=" wrap external" target="_blank">Problem - 1608<i class="icon-external"></i></a><br>
 树状数组区间修改区间查询 <a href="//link.zhihu.com/?target=http%3A/poj.org/problem%3Fid%3D3468" class=" wrap external" target="_blank">Problem - 3468<i class="icon-external"></i></a><br>
 线段树单点修改区间查询 <a href="//link.zhihu.com/?target=http%3A/acm.hdu.edu.cn/showproblem.php%3Fpid%3D1754" class=" wrap external" target="_blank">Problem - 1754<i class="icon-external"></i></a><br>
