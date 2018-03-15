@@ -8,6 +8,7 @@ fork过去完成一题就 改一下自己的readme 然后上传代码 做别人�
 target="_blank">Problem - 1272<i class="icon-external"></i></a><br>
 树状数组单点修改区间查询 <a href="//link.zhihu.com/?target=http%3A/acm.hdu.edu.cn/showproblem.php%3Fpid%3D1754" class=" wrap external" target="_blank">Problem - 1754<i class="icon-external"></i></a><br>
 二分图最大匹配 <a href="//link.zhihu.com/?target=http%3A/acm.hdu.edu.cn/showproblem.php%3Fpid%3D5093" class=" wrap external" target="_blank">Problem - 5093<i class="icon-external"></i></a><br>
+最小生成树 <a href="//link.zhihu.com/?target=http%3A/acm.hdu.edu.cn/showproblem.php%3Fpid%3D2682" class=" wrap external" target="_blank">Problem - 2682<i class="icon-external"></i></a><br>
 
 未完成：  
 
@@ -40,7 +41,7 @@ K-D Tree <a href="//link.zhihu.com/?target=http%3A/acm.hdu.edu.cn/showproblem.ph
 双端队列 <a href="//link.zhihu.com/?target=http%3A/acm.hdu.edu.cn/showproblem.php%3Fpid%3D5929" class=" wrap external" target="_blank">Problem - 5929<i class="icon-external"></i></a><br>
 栈 <a href="//link.zhihu.com/?target=http%3A/acm.hdu.edu.cn/showproblem.php%3Fpid%3D1022" class=" wrap external" target="_blank">Problem - 1022<i class="icon-external"></i></a><br>
 单调栈 <a href="//link.zhihu.com/?target=http%3A/acm.hdu.edu.cn/showproblem.php%3Fpid%3D1506" class=" wrap external" target="_blank">Problem - 1506<i class="icon-external"></i></a><br>
-最小生成树 <a href="//link.zhihu.com/?target=http%3A/acm.hdu.edu.cn/showproblem.php%3Fpid%3D2682" class=" wrap external" target="_blank">Problem - 2682<i class="icon-external"></i></a><br>
+
 次小生成树 <a href="//link.zhihu.com/?target=http%3A/acm.hdu.edu.cn/showproblem.php%3Fpid%3D4756" class=" wrap external" target="_blank">Problem - 4756<i class="icon-external"></i></a><br>
 最优比率生成树 <a href="//link.zhihu.com/?target=http%3A/poj.org/problem%3Fid%3D2728" class=" wrap external" target="_blank">Problem - 2728<i class="icon-external"></i></a><br>
 曼哈顿最小生成树 <a href="//link.zhihu.com/?target=http%3A/poj.org/problem%3Fid%3D3241" class=" wrap external" target="_blank">Problem - 3241<i class="icon-external"></i></a><br>
