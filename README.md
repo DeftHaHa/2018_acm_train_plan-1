@@ -10,6 +10,7 @@ target="_blank">Problem - 1272<i class="icon-external"></i></a><br>
 二分图最大匹配 <a href="//link.zhihu.com/?target=http%3A/acm.hdu.edu.cn/showproblem.php%3Fpid%3D5093" class=" wrap external" target="_blank">Problem - 5093<i class="icon-external"></i></a><br>
 最小生成树 <a href="//link.zhihu.com/?target=http%3A/acm.hdu.edu.cn/showproblem.php%3Fpid%3D2682" class=" wrap external" target="_blank">Problem - 2682<i class="icon-external"></i></a><br>
 快速幂 <a href="//link.zhihu.com/?target=http%3A/acm.hdu.edu.cn/showproblem.php%3Fpid%3D1061" class=" wrap external" target="_blank">Problem - 1061<i class="icon-external"></i></a><br>
+矩阵快速幂 <a href="//link.zhihu.com/?target=http%3A/acm.hdu.edu.cn/showproblem.php%3Fpid%3D2604" class=" wrap external" target="_blank">Problem - 2604<i class="icon-external"></i></a><br>
 
 未完成：  
 
@@ -152,7 +153,6 @@ Catalan数 <a href="//link.zhihu.com/?target=http%3A/acm.hdu.edu.cn/showproblem.
 进制转换 <a href="//link.zhihu.com/?target=http%3A/acm.hdu.edu.cn/showproblem.php%3Fpid%3D2031" class=" wrap external" target="_blank">Problem - 2031<i class="icon-external"></i></a><br>
 高精度 <a href="//link.zhihu.com/?target=http%3A/acm.hdu.edu.cn/showproblem.php%3Fpid%3D1042" class=" wrap external" target="_blank">Problem - 1042<i class="icon-external"></i></a><br>
 
-矩阵快速幂 <a href="//link.zhihu.com/?target=http%3A/acm.hdu.edu.cn/showproblem.php%3Fpid%3D2604" class=" wrap external" target="_blank">Problem - 2604<i class="icon-external"></i></a><br>
 母函数 <a href="//link.zhihu.com/?target=http%3A/acm.hdu.edu.cn/showproblem.php%3Fpid%3D2110" class=" wrap external" target="_blank">Problem - 2110<i class="icon-external"></i></a><br>
 深度优先搜索 <a href="//link.zhihu.com/?target=http%3A/acm.hdu.edu.cn/showproblem.php%3Fpid%3D1518" class=" wrap external" target="_blank">Problem - 1518<i class="icon-external"></i></a><br>
 记忆化搜索 <a href="//link.zhihu.com/?target=http%3A/acm.hdu.edu.cn/showproblem.php%3Fpid%3D5001" class=" wrap external" target="_blank">Problem - 5001<i class="icon-external"></i></a><br>
