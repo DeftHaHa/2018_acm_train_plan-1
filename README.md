@@ -11,6 +11,7 @@ target="_blank">Problem - 1272<i class="icon-external"></i></a><br>
 最小生成树 <a href="//link.zhihu.com/?target=http%3A/acm.hdu.edu.cn/showproblem.php%3Fpid%3D2682" class=" wrap external" target="_blank">Problem - 2682<i class="icon-external"></i></a><br>
 快速幂 <a href="//link.zhihu.com/?target=http%3A/acm.hdu.edu.cn/showproblem.php%3Fpid%3D1061" class=" wrap external" target="_blank">Problem - 1061<i class="icon-external"></i></a><br>
 矩阵快速幂 <a href="//link.zhihu.com/?target=http%3A/acm.hdu.edu.cn/showproblem.php%3Fpid%3D2604" class=" wrap external" target="_blank">Problem - 2604<i class="icon-external"></i></a><br>
+线段树区间修改区间查询 <a href="//link.zhihu.com/?target=http%3A/poj.org/problem%3Fid%3D3468" class=" wrap external" target="_blank">Problem - 3468<i class="icon-external"></i></a><br>
 
 未完成：  
 
@@ -20,7 +21,7 @@ ST Table <a href="//link.zhihu.com/?target=http%3A/acm.hdu.edu.cn/showproblem.ph
 树状数组区间修改区间查询 <a href="//link.zhihu.com/?target=http%3A/poj.org/problem%3Fid%3D3468" class=" wrap external" target="_blank">Problem - 3468<i class="icon-external"></i></a><br>
 线段树单点修改区间查询 <a href="//link.zhihu.com/?target=http%3A/acm.hdu.edu.cn/showproblem.php%3Fpid%3D1754" class=" wrap external" target="_blank">Problem - 1754<i class="icon-external"></i></a><br>
 线段树区间修改单点查询 <a href="//link.zhihu.com/?target=http%3A/acm.fzu.edu.cn/problem.php%3Fpid%3D1608" class=" wrap external" target="_blank">Problem - 1608<i class="icon-external"></i></a><br>
-线段树区间修改区间查询 <a href="//link.zhihu.com/?target=http%3A/poj.org/problem%3Fid%3D3468" class=" wrap external" target="_blank">Problem - 3468<i class="icon-external"></i></a><br>
+
 线段树合并 <a href="//link.zhihu.com/?target=http%3A/poj.org/problem%3Fid%3D3667" class=" wrap external" target="_blank">Problem - 3667<i class="icon-external"></i></a><br>
 线段树扫描线 <a href="//link.zhihu.com/?target=http%3A/acm.hdu.edu.cn/showproblem.php%3Fpid%3D1542" class=" wrap external" target="_blank">Problem - 1542<i class="icon-external"></i></a><br>
 线段树区间GCD维护 <a href="//link.zhihu.com/?target=http%3A/acm.hdu.edu.cn/showproblem.php%3Fpid%3D5726" class=" wrap external" target="_blank">Problem - 5726<i class="icon-external"></i></a><br>
