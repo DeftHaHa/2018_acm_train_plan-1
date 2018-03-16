@@ -12,6 +12,7 @@ target="_blank">Problem - 1272<i class="icon-external"></i></a><br>
 快速幂 <a href="//link.zhihu.com/?target=http%3A/acm.hdu.edu.cn/showproblem.php%3Fpid%3D1061" class=" wrap external" target="_blank">Problem - 1061<i class="icon-external"></i></a><br>
 矩阵快速幂 <a href="//link.zhihu.com/?target=http%3A/acm.hdu.edu.cn/showproblem.php%3Fpid%3D2604" class=" wrap external" target="_blank">Problem - 2604<i class="icon-external"></i></a><br>
 线段树区间修改区间查询 <a href="//link.zhihu.com/?target=http%3A/poj.org/problem%3Fid%3D3468" class=" wrap external" target="_blank">Problem - 3468<i class="icon-external"></i></a><br>
+最近公共祖先 <a href="//link.zhihu.com/?target=http%3A/acm.hdu.edu.cn/showproblem.php%3Fpid%3D2586" class=" wrap external" target="_blank">Problem - 2586<i class="icon-external"></i></a><br>
 
 未完成：  
 
@@ -53,7 +54,7 @@ K-D Tree <a href="//link.zhihu.com/?target=http%3A/acm.hdu.edu.cn/showproblem.ph
 Huffman编码 <a href="//link.zhihu.com/?target=http%3A/acm.hdu.edu.cn/showproblem.php%3Fpid%3D2527" class=" wrap external" target="_blank">Problem - 2527<i class="icon-external"></i></a><br>
 最小树形图 <a href="//link.zhihu.com/?target=http%3A/acm.hdu.edu.cn/showproblem.php%3Fpid%3D2121" class=" wrap external" target="_blank">Problem - 2121<i class="icon-external"></i></a><br>
 树的重心 <a href="//link.zhihu.com/?target=http%3A/acm.hdu.edu.cn/showproblem.php%3Fpid%3D4118" class=" wrap external" target="_blank">Problem - 4118<i class="icon-external"></i></a><br>
-最近公共祖先 <a href="//link.zhihu.com/?target=http%3A/acm.hdu.edu.cn/showproblem.php%3Fpid%3D2586" class=" wrap external" target="_blank">Problem - 2586<i class="icon-external"></i></a><br>
+
 生成树计数 <a href="//link.zhihu.com/?target=http%3A/acm.hdu.edu.cn/showproblem.php%3Fpid%3D4305" class=" wrap external" target="_blank">Problem - 4305<i class="icon-external"></i></a><br>
 二叉树遍历 <a href="//link.zhihu.com/?target=http%3A/acm.hdu.edu.cn/showproblem.php%3Fpid%3D1710" class=" wrap external" target="_blank">Problem - 1710<i class="icon-external"></i></a><br>
 割点 <a href="//link.zhihu.com/?target=http%3A/acm.hdu.edu.cn/showproblem.php%3Fpid%3D4587" class=" wrap external" target="_blank">Problem - 4587<i class="icon-external"></i></a><br>
