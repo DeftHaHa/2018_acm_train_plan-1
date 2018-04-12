@@ -13,6 +13,7 @@ target="_blank">Problem - 1272<i class="icon-external"></i></a><br>
 矩阵快速幂 <a href="//link.zhihu.com/?target=http%3A/acm.hdu.edu.cn/showproblem.php%3Fpid%3D2604" class=" wrap external" target="_blank">Problem - 2604<i class="icon-external"></i></a><br>
 线段树区间修改区间查询 <a href="//link.zhihu.com/?target=http%3A/poj.org/problem%3Fid%3D3468" class=" wrap external" target="_blank">Problem - 3468<i class="icon-external"></i></a><br>
 最近公共祖先 <a href="//link.zhihu.com/?target=http%3A/acm.hdu.edu.cn/showproblem.php%3Fpid%3D2586" class=" wrap external" target="_blank">Problem - 2586<i class="icon-external"></i></a><br>
+扩展欧几里得 <a href="//link.zhihu.com/?target=http%3A/acm.hdu.edu.cn/showproblem.php%3Fpid%3D2669" class=" wrap external" target="_blank">Problem - 2669<i class="icon-external"></i></a><br>
 
 未完成：  
 
@@ -128,7 +129,6 @@ Prime-counting Function <a href="//link.zhihu.com/?target=http%3A/acm.hdu.edu.cn
 Pollard's rho整数分解 <a href="//link.zhihu.com/?target=http%3A/acm.hdu.edu.cn/showproblem.php%3Fpid%3D3864" class=" wrap external" target="_blank">Problem - 3864<i class="icon-external"></i></a><br>
 最大公约数 <a href="//link.zhihu.com/?target=http%3A/acm.hdu.edu.cn/showproblem.php%3Fpid%3D1019" class=" wrap external" target="_blank">Problem - 1019<i class="icon-external"></i></a><br>
 最小公倍数 <a href="//link.zhihu.com/?target=http%3A/acm.hdu.edu.cn/showproblem.php%3Fpid%3D1108" class=" wrap external" target="_blank">Problem - 1108<i class="icon-external"></i></a><br>
-扩展欧几里得 <a href="//link.zhihu.com/?target=http%3A/acm.hdu.edu.cn/showproblem.php%3Fpid%3D2669" class=" wrap external" target="_blank">Problem - 2669<i class="icon-external"></i></a><br>
 乘法逆元 <a href="//link.zhihu.com/?target=http%3A/acm.hdu.edu.cn/showproblem.php%3Fpid%3D1576" class=" wrap external" target="_blank">Problem - 1576<i class="icon-external"></i></a><br>
 线性逆元 <a href="//link.zhihu.com/?target=http%3A/acm.hdu.edu.cn/showproblem.php%3Fpid%3D5673" class=" wrap external" target="_blank">Problem - 5673<i class="icon-external"></i></a><br>
 高斯消元 <a href="//link.zhihu.com/?target=http%3A/acm.hdu.edu.cn/showproblem.php%3Fpid%3D3364" class=" wrap external" target="_blank">Problem - 3364<i class="icon-external"></i></a><br>
