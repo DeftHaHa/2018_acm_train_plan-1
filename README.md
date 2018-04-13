@@ -14,6 +14,7 @@ target="_blank">Problem - 1272<i class="icon-external"></i></a><br>
 线段树区间修改区间查询 <a href="//link.zhihu.com/?target=http%3A/poj.org/problem%3Fid%3D3468" class=" wrap external" target="_blank">Problem - 3468<i class="icon-external"></i></a><br>
 最近公共祖先 <a href="//link.zhihu.com/?target=http%3A/acm.hdu.edu.cn/showproblem.php%3Fpid%3D2586" class=" wrap external" target="_blank">Problem - 2586<i class="icon-external"></i></a><br>
 扩展欧几里得 <a href="//link.zhihu.com/?target=http%3A/acm.hdu.edu.cn/showproblem.php%3Fpid%3D2669" class=" wrap external" target="_blank">Problem - 2669<i class="icon-external"></i></a><br>
+带权并查集 <a href="//link.zhihu.com/?target=http%3A/acm.hdu.edu.cn/showproblem.php%3Fpid%3D3047" class=" wrap external" target="_blank">Problem - 3047<i class="icon-external"></i></a><br>
 
 未完成：  
 
@@ -40,7 +41,7 @@ K-D Tree <a href="//link.zhihu.com/?target=http%3A/acm.hdu.edu.cn/showproblem.ph
 树上莫队算法 <a href="//link.zhihu.com/?target=http%3A/www.spoj.com/problems/COT2/" class=" wrap external" target="_blank">Problem - COT2<i class="icon-external"></i></a><br>
 左偏树 <a href="//link.zhihu.com/?target=http%3A/acm.hdu.edu.cn/showproblem.php%3Fpid%3D3031" class=" wrap external" target="_blank">Problem - 3031<i class="icon-external"></i></a><br>
 堆 <a href="//link.zhihu.com/?target=http%3A/acm.hdu.edu.cn/showproblem.php%3Fpid%3D3673" class=" wrap external" target="_blank">Problem - 3673<i class="icon-external"></i></a><br>
-带权并查集 <a href="//link.zhihu.com/?target=http%3A/acm.hdu.edu.cn/showproblem.php%3Fpid%3D3047" class=" wrap external" target="_blank">Problem - 3047<i class="icon-external"></i></a><br>
+
 链表 <a href="//link.zhihu.com/?target=http%3A/acm.hdu.edu.cn/showproblem.php%3Fpid%3D1413" class=" wrap external" target="_blank">Problem - 1413<i class="icon-external"></i></a><br>
 双向链表 <a href="//link.zhihu.com/?target=http%3A/acm.hdu.edu.cn/showproblem.php%3Fpid%3D4699" class=" wrap external" target="_blank">Problem - 4699<i class="icon-external"></i></a><br>
 双端队列 <a href="//link.zhihu.com/?target=http%3A/acm.hdu.edu.cn/showproblem.php%3Fpid%3D5929" class=" wrap external" target="_blank">Problem - 5929<i class="icon-external"></i></a><br>
