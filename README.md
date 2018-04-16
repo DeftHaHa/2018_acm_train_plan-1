@@ -18,6 +18,7 @@ target="_blank">Problem - 1272<i class="icon-external"></i></a><br>
 割点 <a href="//link.zhihu.com/?target=http%3A/acm.hdu.edu.cn/showproblem.php%3Fpid%3D4587" class=" wrap external" target="_blank">Problem - 4587<i class="icon-external"></i></a><br>
 割边 <a href="//link.zhihu.com/?target=http%3A/acm.hdu.edu.cn/showproblem.php%3Fpid%3D4738" class=" wrap external" target="_blank">Problem - 4738<i class="icon-external"></i></a><br>
 边双连通分量 <a href="//link.zhihu.com/?target=http%3A/acm.hdu.edu.cn/showproblem.php%3Fpid%3D4612" class=" wrap external" target="_blank">Problem - 4612<i class="icon-external"></i></a><br>
+点双连通分量 <a href="//link.zhihu.com/?target=http%3A/acm.hdu.edu.cn/showproblem.php%3Fpid%3D3394" class=" wrap external" target="_blank">Problem - 3394<i class="icon-external"></i></a><br>
 
 未完成：  
 
@@ -62,7 +63,7 @@ Huffman编码 <a href="//link.zhihu.com/?target=http%3A/acm.hdu.edu.cn/showprobl
 
 生成树计数 <a href="//link.zhihu.com/?target=http%3A/acm.hdu.edu.cn/showproblem.php%3Fpid%3D4305" class=" wrap external" target="_blank">Problem - 4305<i class="icon-external"></i></a><br>
 二叉树遍历 <a href="//link.zhihu.com/?target=http%3A/acm.hdu.edu.cn/showproblem.php%3Fpid%3D1710" class=" wrap external" target="_blank">Problem - 1710<i class="icon-external"></i></a><br>
-点双连通分量 <a href="//link.zhihu.com/?target=http%3A/acm.hdu.edu.cn/showproblem.php%3Fpid%3D3394" class=" wrap external" target="_blank">Problem - 3394<i class="icon-external"></i></a><br>
+
 强连通分量 <a href="//link.zhihu.com/?target=http%3A/acm.hdu.edu.cn/showproblem.php%3Fpid%3D4635" class=" wrap external" target="_blank">Problem - 4635<i class="icon-external"></i></a><br>
 Dominator Tree <a href="//link.zhihu.com/?target=http%3A/acm.hdu.edu.cn/showproblem.php%3Fpid%3D4694" class=" wrap external" target="_blank">Problem - 4694<i class="icon-external"></i></a><br>
 最大流 <a href="//link.zhihu.com/?target=http%3A/acm.hdu.edu.cn/showproblem.php%3Fpid%3D3549" class=" wrap external" target="_blank">Problem - 3549<i class="icon-external"></i></a><br>
