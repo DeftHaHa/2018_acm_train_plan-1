@@ -1,19 +1,39 @@
-# - 三个老逼的省赛训练计划 
+# 三个老逼的省赛训练计划 
 
 fork过去完成一题就 改一下自己的readme 然后上传代码 做别人没有完成的题！  
 
-已完成：
+# 已完成：
+## <a href="https://github.com/DeftHaHa/2018_acm_train_plan-1" class=" wrap external" target="_blank">罗巍豪<i class="icon-external"></i></a>：
+并查集 <a href="//link.zhihu.com/?target=http%3A/acm.hdu.edu.cn/showproblem.php%3Fpid%3D1272" class=" wrap external" 
+target="_blank">Problem - 1272<i class="icon-external"></i></a><br>
+树状数组单点修改区间查询 <a href="//link.zhihu.com/?target=http%3A/acm.hdu.edu.cn/showproblem.php%3Fpid%3D1754" class=" wrap external" target="_blank">Problem - 1754<i class="icon-external"></i></a><br>
+二分图判定 <a href="//link.zhihu.com/?target=http%3A/acm.hdu.edu.cn/showproblem.php%3Fpid%3D4751" class=" wrap external" target="_blank">Problem - 4751<i class="icon-external"></i></a><br>
+二分图最大匹配 <a href="//link.zhihu.com/?target=http%3A/acm.hdu.edu.cn/showproblem.php%3Fpid%3D5093" class=" wrap external" target="_blank">Problem - 5093<i class="icon-external"></i></a><br>
+最小生成树 <a href="//link.zhihu.com/?target=http%3A/acm.hdu.edu.cn/showproblem.php%3Fpid%3D2682" class=" wrap external" target="_blank">Problem - 2682<i class="icon-external"></i></a><br>
+快速幂 <a href="//link.zhihu.com/?target=http%3A/acm.hdu.edu.cn/showproblem.php%3Fpid%3D1061" class=" wrap external" target="_blank">Problem - 1061<i class="icon-external"></i></a><br>
+矩阵快速幂 <a href="//link.zhihu.com/?target=http%3A/acm.hdu.edu.cn/showproblem.php%3Fpid%3D2604" class=" wrap external" target="_blank">Problem - 2604<i class="icon-external"></i></a><br>
+线段树区间修改区间查询 <a href="//link.zhihu.com/?target=http%3A/poj.org/problem%3Fid%3D3468" class=" wrap external" target="_blank">Problem - 3468<i class="icon-external"></i></a><br>
+最近公共祖先 <a href="//link.zhihu.com/?target=http%3A/acm.hdu.edu.cn/showproblem.php%3Fpid%3D2586" class=" wrap external" target="_blank">Problem - 2586<i class="icon-external"></i></a><br>
+扩展欧几里得 <a href="//link.zhihu.com/?target=http%3A/acm.hdu.edu.cn/showproblem.php%3Fpid%3D2669" class=" wrap external" target="_blank">Problem - 2669<i class="icon-external"></i></a><br>
+带权并查集 <a href="//link.zhihu.com/?target=http%3A/acm.hdu.edu.cn/showproblem.php%3Fpid%3D3047" class=" wrap external" target="_blank">Problem - 3047<i class="icon-external"></i></a><br>
+割点 <a href="//link.zhihu.com/?target=http%3A/acm.hdu.edu.cn/showproblem.php%3Fpid%3D4587" class=" wrap external" target="_blank">Problem - 4587<i class="icon-external"></i></a><br>
+割边 <a href="//link.zhihu.com/?target=http%3A/acm.hdu.edu.cn/showproblem.php%3Fpid%3D4738" class=" wrap external" target="_blank">Problem - 4738<i class="icon-external"></i></a><br>
+边双连通分量 <a href="//link.zhihu.com/?target=http%3A/acm.hdu.edu.cn/showproblem.php%3Fpid%3D4612" class=" wrap external" target="_blank">Problem - 4612<i class="icon-external"></i></a><br>
+点双连通分量 <a href="//link.zhihu.com/?target=http%3A/acm.hdu.edu.cn/showproblem.php%3Fpid%3D3394" class=" wrap external" target="_blank">Problem - 3394<i class="icon-external"></i></a><br>
+强连通分量 <a href="//link.zhihu.com/?target=http%3A/acm.hdu.edu.cn/showproblem.php%3Fpid%3D4635" class=" wrap external" target="_blank">Problem - 4635<i class="icon-external"></i></a><br>
+
+## <a href="https://github.com/wood3/2018_acm_train_plan" class=" wrap external" target="_blank">代建杉<i class="icon-external"></i></a>：
+高精度 <a href="http://acm.hdu.edu.cn/showproblem.php?pid=1042" class=" wrap external" target="_blank">Problem - 1042<i class="icon-external"></i></a><br>
 
 未完成：  
 
 Hash Table <a href="//link.zhihu.com/?target=http%3A/acm.hdu.edu.cn/showproblem.php%3Fpid%3D5183" class=" wrap external" target="_blank">Problem - 5183<i class="icon-external"></i></a><br>
 ST Table <a href="//link.zhihu.com/?target=http%3A/acm.hdu.edu.cn/showproblem.php%3Fpid%3D3183" class=" wrap external" target="_blank">Problem - 3183<i class="icon-external"></i></a><br>
-树状数组单点修改区间查询 <a href="//link.zhihu.com/?target=http%3A/acm.hdu.edu.cn/showproblem.php%3Fpid%3D1754" class=" wrap external" target="_blank">Problem - 1754<i class="icon-external"></i></a><br>
 树状数组区间修改单点查询 <a href="//link.zhihu.com/?target=http%3A/acm.fzu.edu.cn/problem.php%3Fpid%3D1608" class=" wrap external" target="_blank">Problem - 1608<i class="icon-external"></i></a><br>
 树状数组区间修改区间查询 <a href="//link.zhihu.com/?target=http%3A/poj.org/problem%3Fid%3D3468" class=" wrap external" target="_blank">Problem - 3468<i class="icon-external"></i></a><br>
 线段树单点修改区间查询 <a href="//link.zhihu.com/?target=http%3A/acm.hdu.edu.cn/showproblem.php%3Fpid%3D1754" class=" wrap external" target="_blank">Problem - 1754<i class="icon-external"></i></a><br>
 线段树区间修改单点查询 <a href="//link.zhihu.com/?target=http%3A/acm.fzu.edu.cn/problem.php%3Fpid%3D1608" class=" wrap external" target="_blank">Problem - 1608<i class="icon-external"></i></a><br>
-线段树区间修改区间查询 <a href="//link.zhihu.com/?target=http%3A/poj.org/problem%3Fid%3D3468" class=" wrap external" target="_blank">Problem - 3468<i class="icon-external"></i></a><br>
+
 线段树合并 <a href="//link.zhihu.com/?target=http%3A/poj.org/problem%3Fid%3D3667" class=" wrap external" target="_blank">Problem - 3667<i class="icon-external"></i></a><br>
 线段树扫描线 <a href="//link.zhihu.com/?target=http%3A/acm.hdu.edu.cn/showproblem.php%3Fpid%3D1542" class=" wrap external" target="_blank">Problem - 1542<i class="icon-external"></i></a><br>
 线段树区间GCD维护 <a href="//link.zhihu.com/?target=http%3A/acm.hdu.edu.cn/showproblem.php%3Fpid%3D5726" class=" wrap external" target="_blank">Problem - 5726<i class="icon-external"></i></a><br>
@@ -30,14 +50,13 @@ K-D Tree <a href="//link.zhihu.com/?target=http%3A/acm.hdu.edu.cn/showproblem.ph
 树上莫队算法 <a href="//link.zhihu.com/?target=http%3A/www.spoj.com/problems/COT2/" class=" wrap external" target="_blank">Problem - COT2<i class="icon-external"></i></a><br>
 左偏树 <a href="//link.zhihu.com/?target=http%3A/acm.hdu.edu.cn/showproblem.php%3Fpid%3D3031" class=" wrap external" target="_blank">Problem - 3031<i class="icon-external"></i></a><br>
 堆 <a href="//link.zhihu.com/?target=http%3A/acm.hdu.edu.cn/showproblem.php%3Fpid%3D3673" class=" wrap external" target="_blank">Problem - 3673<i class="icon-external"></i></a><br>
-并查集 <a href="//link.zhihu.com/?target=http%3A/acm.hdu.edu.cn/showproblem.php%3Fpid%3D1272" class=" wrap external" target="_blank">Problem - 1272<i class="icon-external"></i></a><br>
-带权并查集 <a href="//link.zhihu.com/?target=http%3A/acm.hdu.edu.cn/showproblem.php%3Fpid%3D3047" class=" wrap external" target="_blank">Problem - 3047<i class="icon-external"></i></a><br>
+
 链表 <a href="//link.zhihu.com/?target=http%3A/acm.hdu.edu.cn/showproblem.php%3Fpid%3D1413" class=" wrap external" target="_blank">Problem - 1413<i class="icon-external"></i></a><br>
 双向链表 <a href="//link.zhihu.com/?target=http%3A/acm.hdu.edu.cn/showproblem.php%3Fpid%3D4699" class=" wrap external" target="_blank">Problem - 4699<i class="icon-external"></i></a><br>
 双端队列 <a href="//link.zhihu.com/?target=http%3A/acm.hdu.edu.cn/showproblem.php%3Fpid%3D5929" class=" wrap external" target="_blank">Problem - 5929<i class="icon-external"></i></a><br>
 栈 <a href="//link.zhihu.com/?target=http%3A/acm.hdu.edu.cn/showproblem.php%3Fpid%3D1022" class=" wrap external" target="_blank">Problem - 1022<i class="icon-external"></i></a><br>
 单调栈 <a href="//link.zhihu.com/?target=http%3A/acm.hdu.edu.cn/showproblem.php%3Fpid%3D1506" class=" wrap external" target="_blank">Problem - 1506<i class="icon-external"></i></a><br>
-最小生成树 <a href="//link.zhihu.com/?target=http%3A/acm.hdu.edu.cn/showproblem.php%3Fpid%3D2682" class=" wrap external" target="_blank">Problem - 2682<i class="icon-external"></i></a><br>
+
 次小生成树 <a href="//link.zhihu.com/?target=http%3A/acm.hdu.edu.cn/showproblem.php%3Fpid%3D4756" class=" wrap external" target="_blank">Problem - 4756<i class="icon-external"></i></a><br>
 最优比率生成树 <a href="//link.zhihu.com/?target=http%3A/poj.org/problem%3Fid%3D2728" class=" wrap external" target="_blank">Problem - 2728<i class="icon-external"></i></a><br>
 曼哈顿最小生成树 <a href="//link.zhihu.com/?target=http%3A/poj.org/problem%3Fid%3D3241" class=" wrap external" target="_blank">Problem - 3241<i class="icon-external"></i></a><br>
@@ -46,21 +65,18 @@ K-D Tree <a href="//link.zhihu.com/?target=http%3A/acm.hdu.edu.cn/showproblem.ph
 Huffman编码 <a href="//link.zhihu.com/?target=http%3A/acm.hdu.edu.cn/showproblem.php%3Fpid%3D2527" class=" wrap external" target="_blank">Problem - 2527<i class="icon-external"></i></a><br>
 最小树形图 <a href="//link.zhihu.com/?target=http%3A/acm.hdu.edu.cn/showproblem.php%3Fpid%3D2121" class=" wrap external" target="_blank">Problem - 2121<i class="icon-external"></i></a><br>
 树的重心 <a href="//link.zhihu.com/?target=http%3A/acm.hdu.edu.cn/showproblem.php%3Fpid%3D4118" class=" wrap external" target="_blank">Problem - 4118<i class="icon-external"></i></a><br>
-最近公共祖先 <a href="//link.zhihu.com/?target=http%3A/acm.hdu.edu.cn/showproblem.php%3Fpid%3D2586" class=" wrap external" target="_blank">Problem - 2586<i class="icon-external"></i></a><br>
+
 生成树计数 <a href="//link.zhihu.com/?target=http%3A/acm.hdu.edu.cn/showproblem.php%3Fpid%3D4305" class=" wrap external" target="_blank">Problem - 4305<i class="icon-external"></i></a><br>
 二叉树遍历 <a href="//link.zhihu.com/?target=http%3A/acm.hdu.edu.cn/showproblem.php%3Fpid%3D1710" class=" wrap external" target="_blank">Problem - 1710<i class="icon-external"></i></a><br>
-割点 <a href="//link.zhihu.com/?target=http%3A/acm.hdu.edu.cn/showproblem.php%3Fpid%3D4587" class=" wrap external" target="_blank">Problem - 4587<i class="icon-external"></i></a><br>
-割边 <a href="//link.zhihu.com/?target=http%3A/acm.hdu.edu.cn/showproblem.php%3Fpid%3D4738" class=" wrap external" target="_blank">Problem - 4738<i class="icon-external"></i></a><br>
-边双连通分量 <a href="//link.zhihu.com/?target=http%3A/acm.hdu.edu.cn/showproblem.php%3Fpid%3D4612" class=" wrap external" target="_blank">Problem - 4612<i class="icon-external"></i></a><br>
-点双连通分量 <a href="//link.zhihu.com/?target=http%3A/acm.hdu.edu.cn/showproblem.php%3Fpid%3D3394" class=" wrap external" target="_blank">Problem - 3394<i class="icon-external"></i></a><br>
-强连通分量 <a href="//link.zhihu.com/?target=http%3A/acm.hdu.edu.cn/showproblem.php%3Fpid%3D4635" class=" wrap external" target="_blank">Problem - 4635<i class="icon-external"></i></a><br>
+
+
 Dominator Tree <a href="//link.zhihu.com/?target=http%3A/acm.hdu.edu.cn/showproblem.php%3Fpid%3D4694" class=" wrap external" target="_blank">Problem - 4694<i class="icon-external"></i></a><br>
 最大流 <a href="//link.zhihu.com/?target=http%3A/acm.hdu.edu.cn/showproblem.php%3Fpid%3D3549" class=" wrap external" target="_blank">Problem - 3549<i class="icon-external"></i></a><br>
 最小割 <a href="//link.zhihu.com/?target=http%3A/acm.hdu.edu.cn/showproblem.php%3Fpid%3D3917" class=" wrap external" target="_blank">Problem - 3917<i class="icon-external"></i></a><br>
 最小费用最大流 <a href="//link.zhihu.com/?target=http%3A/acm.hdu.edu.cn/showproblem.php%3Fpid%3D1533" class=" wrap external" target="_blank">Problem - 1533<i class="icon-external"></i></a><br>
 线性规划 <a href="//link.zhihu.com/?target=http%3A/acm.hdu.edu.cn/showproblem.php%3Fpid%3D5699" class=" wrap external" target="_blank">Problem - 5699<i class="icon-external"></i></a><br>
-二分图判定 <a href="//link.zhihu.com/?target=http%3A/acm.hdu.edu.cn/showproblem.php%3Fpid%3D4751" class=" wrap external" target="_blank">Problem - 4751<i class="icon-external"></i></a><br>
-二分图最大匹配 <a href="//link.zhihu.com/?target=http%3A/acm.hdu.edu.cn/showproblem.php%3Fpid%3D5093" class=" wrap external" target="_blank">Problem - 5093<i class="icon-external"></i></a><br>
+
+
 最大独立集 <a href="//link.zhihu.com/?target=http%3A/acm.hdu.edu.cn/showproblem.php%3Fpid%3D1068" class=" wrap external" target="_blank">Problem - 1068<i class="icon-external"></i></a><br>
 最大点权独立集 <a href="//link.zhihu.com/?target=http%3A/acm.hdu.edu.cn/showproblem.php%3Fpid%3D1565" class=" wrap external" target="_blank">Problem - 1565<i class="icon-external"></i></a><br>
 2-SAT <a href="//link.zhihu.com/?target=http%3A/acm.hdu.edu.cn/showproblem.php%3Fpid%3D4421" class=" wrap external" target="_blank">Problem - 4421<i class="icon-external"></i></a><br>
@@ -120,7 +136,6 @@ Prime-counting Function <a href="//link.zhihu.com/?target=http%3A/acm.hdu.edu.cn
 Pollard's rho整数分解 <a href="//link.zhihu.com/?target=http%3A/acm.hdu.edu.cn/showproblem.php%3Fpid%3D3864" class=" wrap external" target="_blank">Problem - 3864<i class="icon-external"></i></a><br>
 最大公约数 <a href="//link.zhihu.com/?target=http%3A/acm.hdu.edu.cn/showproblem.php%3Fpid%3D1019" class=" wrap external" target="_blank">Problem - 1019<i class="icon-external"></i></a><br>
 最小公倍数 <a href="//link.zhihu.com/?target=http%3A/acm.hdu.edu.cn/showproblem.php%3Fpid%3D1108" class=" wrap external" target="_blank">Problem - 1108<i class="icon-external"></i></a><br>
-扩展欧几里得 <a href="//link.zhihu.com/?target=http%3A/acm.hdu.edu.cn/showproblem.php%3Fpid%3D2669" class=" wrap external" target="_blank">Problem - 2669<i class="icon-external"></i></a><br>
 乘法逆元 <a href="//link.zhihu.com/?target=http%3A/acm.hdu.edu.cn/showproblem.php%3Fpid%3D1576" class=" wrap external" target="_blank">Problem - 1576<i class="icon-external"></i></a><br>
 线性逆元 <a href="//link.zhihu.com/?target=http%3A/acm.hdu.edu.cn/showproblem.php%3Fpid%3D5673" class=" wrap external" target="_blank">Problem - 5673<i class="icon-external"></i></a><br>
 高斯消元 <a href="//link.zhihu.com/?target=http%3A/acm.hdu.edu.cn/showproblem.php%3Fpid%3D3364" class=" wrap external" target="_blank">Problem - 3364<i class="icon-external"></i></a><br>
@@ -145,9 +160,7 @@ Catalan数 <a href="//link.zhihu.com/?target=http%3A/acm.hdu.edu.cn/showproblem.
 蔡勒公式 <a href="//link.zhihu.com/?target=http%3A/acm.hdu.edu.cn/showproblem.php%3Fpid%3D2005" class=" wrap external" target="_blank">Problem - 2005<i class="icon-external"></i></a><br>
 错排公式 <a href="//link.zhihu.com/?target=http%3A/acm.hdu.edu.cn/showproblem.php%3Fpid%3D1465" class=" wrap external" target="_blank">Problem - 1465<i class="icon-external"></i></a><br>
 进制转换 <a href="//link.zhihu.com/?target=http%3A/acm.hdu.edu.cn/showproblem.php%3Fpid%3D2031" class=" wrap external" target="_blank">Problem - 2031<i class="icon-external"></i></a><br>
-高精度 <a href="//link.zhihu.com/?target=http%3A/acm.hdu.edu.cn/showproblem.php%3Fpid%3D1042" class=" wrap external" target="_blank">Problem - 1042<i class="icon-external"></i></a><br>
-快速幂 <a href="//link.zhihu.com/?target=http%3A/acm.hdu.edu.cn/showproblem.php%3Fpid%3D1061" class=" wrap external" target="_blank">Problem - 1061<i class="icon-external"></i></a><br>
-矩阵快速幂 <a href="//link.zhihu.com/?target=http%3A/acm.hdu.edu.cn/showproblem.php%3Fpid%3D2604" class=" wrap external" target="_blank">Problem - 2604<i class="icon-external"></i></a><br>
+
 母函数 <a href="//link.zhihu.com/?target=http%3A/acm.hdu.edu.cn/showproblem.php%3Fpid%3D2110" class=" wrap external" target="_blank">Problem - 2110<i class="icon-external"></i></a><br>
 深度优先搜索 <a href="//link.zhihu.com/?target=http%3A/acm.hdu.edu.cn/showproblem.php%3Fpid%3D1518" class=" wrap external" target="_blank">Problem - 1518<i class="icon-external"></i></a><br>
 记忆化搜索 <a href="//link.zhihu.com/?target=http%3A/acm.hdu.edu.cn/showproblem.php%3Fpid%3D5001" class=" wrap external" target="_blank">Problem - 5001<i class="icon-external"></i></a><br>
