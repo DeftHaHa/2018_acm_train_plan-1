@@ -1,9 +1,9 @@
-# - 三个老逼的省赛训练计划 
+# 三个老逼的省赛训练计划 
 
 fork过去完成一题就 改一下自己的readme 然后上传代码 做别人没有完成的题！  
 
-已完成：
-
+# 已完成：
+## <a href="https://github.com/DeftHaHa/2018_acm_train_plan-1" class=" wrap external" target="_blank">罗巍豪<i class="icon-external"></i></a>：
 并查集 <a href="//link.zhihu.com/?target=http%3A/acm.hdu.edu.cn/showproblem.php%3Fpid%3D1272" class=" wrap external" 
 target="_blank">Problem - 1272<i class="icon-external"></i></a><br>
 树状数组单点修改区间查询 <a href="//link.zhihu.com/?target=http%3A/acm.hdu.edu.cn/showproblem.php%3Fpid%3D1754" class=" wrap external" target="_blank">Problem - 1754<i class="icon-external"></i></a><br>
@@ -22,7 +22,10 @@ target="_blank">Problem - 1272<i class="icon-external"></i></a><br>
 点双连通分量 <a href="//link.zhihu.com/?target=http%3A/acm.hdu.edu.cn/showproblem.php%3Fpid%3D3394" class=" wrap external" target="_blank">Problem - 3394<i class="icon-external"></i></a><br>
 强连通分量 <a href="//link.zhihu.com/?target=http%3A/acm.hdu.edu.cn/showproblem.php%3Fpid%3D4635" class=" wrap external" target="_blank">Problem - 4635<i class="icon-external"></i></a><br>
 
-未完成：  
+## <a href="https://github.com/wood3/2018_acm_train_plan" class=" wrap external" target="_blank">代建杉<i class="icon-external"></i></a>：
+高精度 <a href="http://acm.hdu.edu.cn/showproblem.php?pid=1042" class=" wrap external" target="_blank">Problem - 1042<i class="icon-external"></i></a><br>
+
+# 未完成：  
 
 Hash Table <a href="//link.zhihu.com/?target=http%3A/acm.hdu.edu.cn/showproblem.php%3Fpid%3D5183" class=" wrap external" target="_blank">Problem - 5183<i class="icon-external"></i></a><br>
 ST Table <a href="//link.zhihu.com/?target=http%3A/acm.hdu.edu.cn/showproblem.php%3Fpid%3D3183" class=" wrap external" target="_blank">Problem - 3183<i class="icon-external"></i></a><br>
@@ -157,7 +160,6 @@ Catalan数 <a href="//link.zhihu.com/?target=http%3A/acm.hdu.edu.cn/showproblem.
 蔡勒公式 <a href="//link.zhihu.com/?target=http%3A/acm.hdu.edu.cn/showproblem.php%3Fpid%3D2005" class=" wrap external" target="_blank">Problem - 2005<i class="icon-external"></i></a><br>
 错排公式 <a href="//link.zhihu.com/?target=http%3A/acm.hdu.edu.cn/showproblem.php%3Fpid%3D1465" class=" wrap external" target="_blank">Problem - 1465<i class="icon-external"></i></a><br>
 进制转换 <a href="//link.zhihu.com/?target=http%3A/acm.hdu.edu.cn/showproblem.php%3Fpid%3D2031" class=" wrap external" target="_blank">Problem - 2031<i class="icon-external"></i></a><br>
-高精度 <a href="//link.zhihu.com/?target=http%3A/acm.hdu.edu.cn/showproblem.php%3Fpid%3D1042" class=" wrap external" target="_blank">Problem - 1042<i class="icon-external"></i></a><br>
 
 母函数 <a href="//link.zhihu.com/?target=http%3A/acm.hdu.edu.cn/showproblem.php%3Fpid%3D2110" class=" wrap external" target="_blank">Problem - 2110<i class="icon-external"></i></a><br>
 深度优先搜索 <a href="//link.zhihu.com/?target=http%3A/acm.hdu.edu.cn/showproblem.php%3Fpid%3D1518" class=" wrap external" target="_blank">Problem - 1518<i class="icon-external"></i></a><br>
