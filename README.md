@@ -24,6 +24,7 @@ target="_blank">Problem - 1272<i class="icon-external"></i></a><br>
 全源最短路 <a href="//link.zhihu.com/?target=http%3A/acm.hdu.edu.cn/showproblem.php%3Fpid%3D3631" class=" wrap external" target="_blank">Problem - 3631<i class="icon-external"></i></a><br>
 次短路 <a href="//link.zhihu.com/?target=http%3A/acm.hdu.edu.cn/showproblem.php%3Fpid%3D1688" class=" wrap external" target="_blank">Problem - 1688<i class="icon-external"></i></a><br>
 差分约束 <a href="//link.zhihu.com/?target=http%3A/acm.hdu.edu.cn/showproblem.php%3Fpid%3D4598" class=" wrap external" target="_blank">Problem - 4598<i class="icon-external"></i></a><br>
+欧拉回路 <a href="//link.zhihu.com/?target=http%3A/acm.hdu.edu.cn/showproblem.php%3Fpid%3D2894" class=" wrap external" target="_blank">Problem - 2894<i class="icon-external"></i></a><br>
 ## <a href="https://github.com/wood3/2018_acm_train_plan" class=" wrap external" target="_blank">代建杉<i class="icon-external"></i></a>：
 高精度 <a href="http://acm.hdu.edu.cn/showproblem.php?pid=1042" class=" wrap external" target="_blank">Problem - 1042<i class="icon-external"></i></a><br>
 
@@ -86,7 +87,7 @@ Dominator Tree <a href="//link.zhihu.com/?target=http%3A/acm.hdu.edu.cn/showprob
 第K短路 <a href="//link.zhihu.com/?target=http%3A/acm.hdu.edu.cn/showproblem.php%3Fpid%3D2449" class=" wrap external" target="_blank">Problem - 2449<i class="icon-external"></i></a><br>
 
 拓扑排序 <a href="//link.zhihu.com/?target=http%3A/acm.hdu.edu.cn/showproblem.php%3Fpid%3D2647" class=" wrap external" target="_blank">Problem - 2647<i class="icon-external"></i></a><br>
-欧拉回路 <a href="//link.zhihu.com/?target=http%3A/acm.hdu.edu.cn/showproblem.php%3Fpid%3D2894" class=" wrap external" target="_blank">Problem - 2894<i class="icon-external"></i></a><br>
+
 最大团 <a href="//link.zhihu.com/?target=http%3A/acm.hdu.edu.cn/showproblem.php%3Fpid%3D1530" class=" wrap external" target="_blank">Problem - 1530<i class="icon-external"></i></a><br>
 稳定婚姻匹配 <a href="//link.zhihu.com/?target=http%3A/acm.hdu.edu.cn/showproblem.php%3Fpid%3D1914" class=" wrap external" target="_blank">Problem - 1914<i class="icon-external"></i></a><br>
 Dancing Links <a href="//link.zhihu.com/?target=http%3A/acm.hdu.edu.cn/showproblem.php%3Fpid%3D3111" class=" wrap external" target="_blank">Problem - 3111<i class="icon-external"></i></a><br>
